@@ -1,4 +1,5 @@
 # capstone
 
-<Collaborators>
+#collaborators
+
 #1. gwonbeomjin
